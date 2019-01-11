@@ -3,6 +3,7 @@
 	#include "ellipticCurve.h"
 #endif
 
+
 class Key
 {
 public:	
