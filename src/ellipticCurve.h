@@ -1,6 +1,7 @@
 /* 
 check if "=="" operator for type Element in ecPoint is defined
 */
+
 #ifndef GIVARO_ZPZ_H
 #define GIVARO_ZPZ_H
     #include <givaro/givzpz.h>
