@@ -139,7 +139,8 @@ ExtensionField::Element& ExtensionField::scalarMultiply(Element& R,const Element
 }
 void ExtensionField::readElement(Element& P, bool flag)
 {
-    Fp_X.read(cin,P,flag);
+    //Fp_X.read(cin,P,flag);
+    //Fp_X.read(cin,P,flag);
 }
 void ExtensionField::writeElement(Element& A)
 {
